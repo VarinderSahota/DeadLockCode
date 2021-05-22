@@ -1,0 +1,1 @@
+Solutions of Codility problems
